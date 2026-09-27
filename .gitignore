@@ -1,0 +1,23 @@
+# Eclipse workspace
+.metadata/
+
+# Eclipse settings
+.settings/
+
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+target/
+
+# Eclipse files
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml

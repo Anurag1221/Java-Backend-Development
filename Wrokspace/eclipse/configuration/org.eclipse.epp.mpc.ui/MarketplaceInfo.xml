@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="26.0.2.1" class="java.beans.XMLDecoder">
+ <object class="org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceInfo" id="MarketplaceInfo0">
+  <void property="iuToNodeKey">
+   <void method="put">
+    <string>bndtools.main.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>net.sf.eclipsecs</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#150</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.codehaus.groovy40.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#321859</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.codehaus.groovy.m2eclipse.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#321859</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.yakindu.sct.product.java.feature.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#588773</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.agileware.natural.jbehave.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#7549740</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.agileware.natural.cucumber.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#7549740</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>dev.lonsing.eclipse.plugins.gotoproject.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#4964887</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.codehaus.groovy50.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#321859</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>bndtools.m2e.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.yakindu.sct.product.scxml.feature.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#588773</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.yakindu.sct.product.python.feature.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#588773</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.codehaus.groovy60.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#321859</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.codehaus.groovy.eclipse.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#321859</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.eclipse.xtext.sdk</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1073</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>xtext.anbx.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#3795176</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.yakindu.sct.product.editor.feature.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#588773</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>bndtools.ecf.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>org.codehaus.groovy30.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#321859</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>bndtools.pde.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#1220</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.embeddedflow.eclipse.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#7542188</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.yakindu.sct.product.c.feature.feature.group</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#588773</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>dev.lonsing.eclipse.plugins.workingsettools.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#4964939</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="nodeKeyToIU">
+   <void method="put">
+    <string>https://marketplace.eclipse.org#150</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>net.sf.eclipsecs</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#3795176</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>xtext.anbx.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#321859</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>org.codehaus.groovy.eclipse.feature</string>
+     </void>
+     <void method="add">
+      <string>org.codehaus.groovy.m2eclipse.feature</string>
+     </void>
+     <void method="add">
+      <string>org.codehaus.groovy60.feature</string>
+     </void>
+     <void method="add">
+      <string>org.codehaus.groovy50.feature</string>
+     </void>
+     <void method="add">
+      <string>org.codehaus.groovy40.feature</string>
+     </void>
+     <void method="add">
+      <string>org.codehaus.groovy30.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#4964939</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>dev.lonsing.eclipse.plugins.workingsettools.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#7542188</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.embeddedflow.eclipse.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#1220</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>bndtools.main.feature</string>
+     </void>
+     <void method="add">
+      <string>bndtools.m2e.feature</string>
+     </void>
+     <void method="add">
+      <string>bndtools.pde.feature</string>
+     </void>
+     <void method="add">
+      <string>bndtools.ecf.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#1073</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>org.eclipse.xtext.sdk</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#4964887</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>dev.lonsing.eclipse.plugins.gotoproject.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#588773</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.yakindu.sct.product.editor.feature.feature.group</string>
+     </void>
+     <void method="add">
+      <string>com.yakindu.sct.product.c.feature.feature.group</string>
+     </void>
+     <void method="add">
+      <string>com.yakindu.sct.product.java.feature.feature.group</string>
+     </void>
+     <void method="add">
+      <string>com.yakindu.sct.product.python.feature.feature.group</string>
+     </void>
+     <void method="add">
+      <string>com.yakindu.sct.product.scxml.feature.feature.group</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#7549740</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>org.agileware.natural.cucumber.feature</string>
+     </void>
+     <void method="add">
+      <string>org.agileware.natural.jbehave.feature</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
