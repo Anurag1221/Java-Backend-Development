@@ -26,4 +26,10 @@ public class User {
 	User(int age) {
 		System.out.println("User.User() no arg");
 	}
+	
+	void displayUser() {
+		System.out.println("userName : " + userName);
+		System.out.println("userId : " + userId);
+		System.out.println("mobile : " + mobile);
+	}
 }
