@@ -1,8 +1,8 @@
 class Companydriver{
 	
 	public static void main(String args[]){
-		Employee emp = new Employee("Global Logic", 2566945, "Anurag");
+		int arr = {20,30,90,40,10,70}
 		
-		emp.displayEmployee();
+		for(int i=0; i<arr.length; i)
 	}
 }
