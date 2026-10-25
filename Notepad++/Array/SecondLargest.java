@@ -24,4 +24,4 @@ class SecondLargest{
 	
 }
 
-//1.	Find the smallest element in an array. 
+//1.Find the smallest element in an array. 
