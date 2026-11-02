@@ -1,5 +1,6 @@
 package com.kodewala.interfacee.practice05;
 
-public class PropertyTaxDiscount {
-
+public interface PropertyTaxDiscount extends TaxDiscount{
+	
+	public abstract void calculatePropertyDiscount(int propertyAge);
 }

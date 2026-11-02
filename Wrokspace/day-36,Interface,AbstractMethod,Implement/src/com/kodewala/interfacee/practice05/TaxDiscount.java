@@ -1,5 +1,6 @@
 package com.kodewala.interfacee.practice05;
 
-public class TaxDiscount {
-
+public interface TaxDiscount {
+	
+	public abstract void calculateDiscount(int amount, int rate);
 }
