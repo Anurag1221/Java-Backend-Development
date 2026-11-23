@@ -5,7 +5,7 @@ public class CalculateDiscount {
 	public static void main(String[] args) {
 		
 		CalculateDiscount calculateDiscount = new CalculateDiscount();
-		int result =calculateDiscount.calcDiscount(100, 10);
+		int result =calculateDiscount.calcDiscount(100, 0);
 		System.out.println(result);
 	}
 	
@@ -14,8 +14,8 @@ public class CalculateDiscount {
 		
 		try {
 			finalAmt = amount - (amount * disc / 100);// risky code
-//			String name = null;
-//			System.out.println(name.length());
+			String name = null;
+			System.out.println(name.length());
 			return finalAmt; // return value has been decided
 		}
 		catch (Exception e) {

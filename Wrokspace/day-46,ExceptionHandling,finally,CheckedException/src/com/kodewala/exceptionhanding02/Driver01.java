@@ -17,6 +17,9 @@ public class Driver01 {
 		catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}
+		finally {
+			System.out.println("Finally block run");
+		}
 	}
 
 }
