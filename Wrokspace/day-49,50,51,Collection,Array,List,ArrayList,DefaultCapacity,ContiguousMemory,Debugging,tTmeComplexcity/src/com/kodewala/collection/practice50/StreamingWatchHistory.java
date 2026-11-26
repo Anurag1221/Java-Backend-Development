@@ -1,4 +1,4 @@
-package com.kodewala.collection.practice01;
+package com.kodewala.collection.practice50;
 
 import java.util.ArrayList;
 

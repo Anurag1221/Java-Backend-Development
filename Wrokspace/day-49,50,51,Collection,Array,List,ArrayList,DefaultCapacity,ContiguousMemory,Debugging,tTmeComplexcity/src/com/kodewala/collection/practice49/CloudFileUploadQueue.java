@@ -1,4 +1,4 @@
-package com.kodewala.collection.practice;
+package com.kodewala.collection.practice49;
 
 import java.util.ArrayList;
 //set method :- use use replace the arraylist data

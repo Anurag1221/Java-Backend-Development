@@ -1,4 +1,4 @@
-package com.kodewala.collection;
+package com.kodewala.collection49;
 // list store the data in same order
 // allow duplicate data
 //allow multiple null value

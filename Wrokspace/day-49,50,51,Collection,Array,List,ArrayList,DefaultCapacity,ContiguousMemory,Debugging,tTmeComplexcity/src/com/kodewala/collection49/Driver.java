@@ -1,4 +1,4 @@
-package com.kodewala.collection;
+package com.kodewala.collection49;
 
 //1.store - store the data
 //2. process - perform sum operation into the data or modify it.
